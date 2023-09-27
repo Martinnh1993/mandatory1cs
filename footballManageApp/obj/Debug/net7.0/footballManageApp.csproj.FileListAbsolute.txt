@@ -1,0 +1,14 @@
+C:\Users\Marti\.vscode\footballManageApp\bin\Debug\net7.0\footballManageApp.exe
+C:\Users\Marti\.vscode\footballManageApp\bin\Debug\net7.0\footballManageApp.deps.json
+C:\Users\Marti\.vscode\footballManageApp\bin\Debug\net7.0\footballManageApp.runtimeconfig.json
+C:\Users\Marti\.vscode\footballManageApp\bin\Debug\net7.0\footballManageApp.dll
+C:\Users\Marti\.vscode\footballManageApp\bin\Debug\net7.0\footballManageApp.pdb
+C:\Users\Marti\.vscode\footballManageApp\obj\Debug\net7.0\footballManageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\.vscode\footballManageApp\obj\Debug\net7.0\footballManageApp.AssemblyInfoInputs.cache
+C:\Users\Marti\.vscode\footballManageApp\obj\Debug\net7.0\footballManageApp.AssemblyInfo.cs
+C:\Users\Marti\.vscode\footballManageApp\obj\Debug\net7.0\footballManageApp.csproj.CoreCompileInputs.cache
+C:\Users\Marti\.vscode\footballManageApp\obj\Debug\net7.0\footballManageApp.dll
+C:\Users\Marti\.vscode\footballManageApp\obj\Debug\net7.0\refint\footballManageApp.dll
+C:\Users\Marti\.vscode\footballManageApp\obj\Debug\net7.0\footballManageApp.pdb
+C:\Users\Marti\.vscode\footballManageApp\obj\Debug\net7.0\footballManageApp.genruntimeconfig.cache
+C:\Users\Marti\.vscode\footballManageApp\obj\Debug\net7.0\ref\footballManageApp.dll
